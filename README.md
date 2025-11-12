@@ -79,3 +79,9 @@ Contient toute la logique d’interface et du jeu :
 - Bibliothèques :
   ```bash
   pip install numpy
+
+
+### ✅ Execution 
+- **Lance le code en appuyant sur F5 ou la flèche en haut** 
+
+**Régale toi !!!!**
