@@ -12,11 +12,7 @@ Ce projet met en pratique la **programmation orientée objet (POO)**, la gestion
 3. [Architecture du code](#-architecture-du-code)  
 4. [Installation](#-installation)  
 5. [Exécution](#-exécution)  
-6. [Diagramme de classes UML](#-diagramme-de-classes-uml)  
-7. [Captures d’écran](#-captures-décran)  
-8. [Structure du projet](#-structure-du-projet)  
-9. [Auteur](#-auteur)  
-10. [Licence](#-licence)
+
 
 ---
 
